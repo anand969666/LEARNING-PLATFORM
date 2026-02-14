@@ -1,10 +1,15 @@
 # LEARNING-PLATFORM #
 
 company : CODTECH IT SOLUTIONS 
+
 name : ANAND MISHRA 
-intern id: 
+
+intern id: CTISAR00
+
 domain:PYTHON PROGRAMMING 
+
 duration:4 WEEKS
+
 mentor name:NEELA SANTOSH
 
 Developing a learning platform using HTML, CSS, JavaScript, and Python is not just a technical project; it is a complete demonstration of full-stack development skills. This type of project reflects the ability to design an interactive user interface, manage backend operations, and integrate a database to create a functional and scalable system. It combines creativity with logic, design with programming, and front-end experience with back-end intelligence.
